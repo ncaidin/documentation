@@ -18,7 +18,7 @@ Always be in "choice" and know that you are supported in making your choices in 
 2. Check in around the room : Do you have a preference in this moment on how you want to participate today? (observe, empthasize, express, ask Questions about NVC, etc.). Do you have an issue that is up for you? Basically, what do you want to work on?
 3. Practice! Large group or small groups. 
 4. Closing - 10 minutes - 30 second gratitude, mourning, feedback, authentic expression per person. Timer? 
-  1. Logistics
-  2. Moment of silence
+    1. Logistics
+    2. Moment of silence
   
 
