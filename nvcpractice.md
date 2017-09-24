@@ -2,9 +2,9 @@
 Purpose of NVC practice is for empowerment and learning. My empowerment and your empowerment. 
 
 ## My intention that I bring (What is your intention?)
-Safety and care
-Authenticity
-Play
+* Safety and care
+* Authenticity
+* Play
 
 ## My Yearnings
 Community
