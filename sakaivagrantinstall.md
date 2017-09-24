@@ -9,5 +9,19 @@ contain a separate database for each version of Sakai you wish to use. These ins
 ## Install Virtualbox
 [First download and install Virtualbox](https://www.virtualbox.org/wiki/Downloads "Virtual Box Download")
 
+## Install Vagrant
+Vagrant is a wrapper application that makes it easier to manage and configure Virtualbox, or your favorite VM. 
 
+[Install Vagrant](https://www.vagrantup.com/downloads.html "Vagrant Download")
 
+Make a directory in which to configure your VM with Vagrant
+
+cd
+mkdir dev
+cd dev
+mdkir sakaivagrant
+cd sakaivagrant
+
+vagrant init ubuntu/xenial64
+vagrant up
+vagrant ssh
