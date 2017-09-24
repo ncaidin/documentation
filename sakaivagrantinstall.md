@@ -24,6 +24,10 @@ mdkir sakaivagrant
 cd sakaivagrant
 
 vagrant init ubuntu/xenial64
+```
+On your Mac or PC use a simple text editor to edit the Vagrantfile
+
+```
 vagrant up
 vagrant ssh
 ```
