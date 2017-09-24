@@ -7,7 +7,7 @@ repository means you've downloaded every version of Sakai since 11.0 .  You will
 contain a separate database for each version of Sakai you wish to use. These instructions should work on Mac or Windows. 
 
 ## Install Virtualbox
-[First download and install Virtualbox](https://www.virtualbox.org/wiki/Downloads "Virtual Box Download"]
+[First download and install Virtualbox](https://www.virtualbox.org/wiki/Downloads "Virtual Box Download")
 
 
 
