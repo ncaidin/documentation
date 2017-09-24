@@ -16,7 +16,7 @@ Vagrant is a wrapper application that makes it easier to manage and configure Vi
 
 Make a directory in which to configure your VM with Vagrant
 
-'''
+```
 cd
 mkdir dev
 cd dev
@@ -26,4 +26,4 @@ cd sakaivagrant
 vagrant init ubuntu/xenial64
 vagrant up
 vagrant ssh
-'''
+```
