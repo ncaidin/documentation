@@ -7,8 +7,8 @@ Purpose of NVC practice is for empowerment and learning. My empowerment and your
 * Play
 
 ## My Yearnings
-Community
-Reaching Across Divides
+* Community
+* Reaching Across Divides
 
 ## Invitation
 Always be in "choice" and know that you are supported in making your choices in this community
