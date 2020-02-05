@@ -4,7 +4,7 @@
 
 **8 October 2015**
 
-**Last Amended - 12 September 2019**
+**Last Amended** **--** **30** **January 2020**
 
 Thank you for your interest in participating in the OpenAPI Initiative (OAI), a project hosted by The Linux Foundation. OAI members will enjoy the privileges described in the OpenAPI Initiative Charter, [Exhibit B]{.underline}, as from time-to-time may be amended per the OAI Charter.
 
@@ -14,7 +14,7 @@ Members participating in the OAI aim to:
 
 -   Create an open source, technical community, within which industry participants may easily contribute to building a vendor-neutral, portable and open specification for providing technical metadata for REST APIs ("OAI Community");
 
--   Promote and facilitate adoption and use of the "OpenAPI Specification" (OAS) as an open industry specification;
+-   Promote and facilitate adoption and use of the "OpenAPI Specification" and other Specifications as open industry specifications;
 
 -   Adhere to the OAI Charter, attached as Exhibit B, as from time-to-time may be amended per the OAI Charter, and all policies referenced in the OAI Charter, including the IP Policy;
 
@@ -153,6 +153,26 @@ Phone No: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 E-mail: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+**Billing Address**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Billing Contact**
+
+*(All invoices will be sent to this e-mail address unless the Member directs otherwise)*
+
+Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Title: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Phone No: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+E-mail: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 Please indicate preferred method(s) for receiving invoices:
 
 > \_\_\_ PDF via email
@@ -174,7 +194,7 @@ E-mail: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1.  **Mission of the OpenAPI Initiative**\
     \
-    The OpenAPI Initiative ("OAI") provides an open source, technical community, within which industry participants may easily contribute to building a vendor-neutral, portable and an open specification for providing technical metadata for APIs -- such as the "OpenAPI Specification" (OAS) - and supporting tooling for validating the integrity of the specification or instantiations of it.  The OAI is as such not intended to be a destination for community/consumer-focused tooling outside of the specification itself.
+    The OpenAPI Initiative ("OAI") provides an open source, technical community, within which industry participants may easily contribute to building a vendor-neutral, portable and an open specification for providing technical metadata for APIs -- such as the "OpenAPI Specification" (collectively, "Specifications") - and supporting tooling for validating the integrity of the specification or instantiations of it.  The OAI is as such not intended to be a destination for community/consumer-focused tooling outside of the specification itself.
 
 2.  **Membership**.
 
@@ -200,13 +220,13 @@ E-mail: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 3.  **Business Governance Board**
 
-    c.  The Business Governance Board shall be composed of one representative appointed by each OAI Member. A member may appoint an alternative representative for any meeting. Alternative representatives are limited to those within the same company as the OAI Member.
+    c.  The Business Governance Board shall be composed of one representative appointed by each OAI Member. A member may appoint an alternative representative for any meeting. Alternative representatives are limited to those within the same company as the OAI Member. For the avoidance of doubt, references to "representatives" in Section 3.d. include appointed alternative representatives.
 
     d.  Business Governance Board meetings may be held in-person or via electronic conferencing.
 
     e.  Business Governance Board meetings must be called to at least 2 weeks in advance for face-to-face meetings and one week in advance for teleconferences or remote meetings.
 
-    f.  Quorum for holding meetings shall be established when a simple majority of Business Governance Board representatives are present, with a minimum of five representatives required. Any Business Governance Board representative who fails to attend two consecutive Business Governance Board meetings will not be counted for purposes of determining quorum requirements as of the third consecutive meeting and until they next attend a Business Governance Board meeting.
+    f.  Quorum for holding meetings shall be established when a simple majority of Business Governance Board representatives are present so long as at least five representatives are in attendance. Any Business Governance Board representative who fails to attend, and for whom an appointed alternative representative does not attend, two consecutive Business Governance Board meetings will not be counted for purposes of determining quorum requirements as of the third consecutive meeting and until they next attend a Business Governance Board meeting.
 
     g.  The intention is for the OAI to operate by consensus. However, if consensus cannot be achieved, the Business Governance Board shall vote on a decision. Votes either at meetings, via email or electronic voting service, shall be based on a one vote per member basis, requiring a simple majority of votes cast to pass. An abstain vote equals not voting at all.
 
@@ -214,7 +234,7 @@ E-mail: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
     i.  The Business Governance Board is intended to provide a minimalist governance structure around the development and use of the OAI trademarks and shall only be responsible for:
 
-        ix. creating and maintaining OAI trademarks associated with the OAI and the OAS.
+        ix. creating and maintaining OAI trademarks associated with the OAI and Specifications.
 
         x.  establishing and executing a certification program defining the terms for using any OAI trademark(s).
 
@@ -232,25 +252,25 @@ E-mail: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
     k.  Any issues that cannot be resolved by the Business Governance Board shall be referred to The Linux Foundation for resolution.
 
-    l.  For avoidance of doubt, OAI membership does not convey any rights to directly influence the technical direction of the project. That influence will come through contribution to the OAS as defined by the Technical Steering Committee.
+    l.  For avoidance of doubt, OAI membership does not convey any rights to directly influence the technical direction of the project. That influence will come through contribution to Specifications as defined by the Technical Steering Committee.
 
 4.  **Technical Steering Committee** ("TSC")
 
-    m.  The OAI has established a technical project for an open source Technical Steering Committee. The TSC shall be open to any developer, end user or subject matter expert that chooses to participate in the activities of OAI, regardless of whether the participant is employed by an OAI Member company. Influence on the evolution of the OAS comes by engaging with the TSC in technical discussions and by contributing to the project.
+    m.  The OAI has established a technical project for an open source Technical Steering Committee. The TSC shall be open to any developer, end user or subject matter expert that chooses to participate in the activities of OAI, regardless of whether the participant is employed by an OAI Member company. Influence on the evolution of the Specifications comes by engaging with the TSC in technical discussions and by contributing to the project.
 
     n.  The TSC has an established scope of work focused on:
 
-        xvi. Creating and maintaining the OAS
+        xvi. Creating and maintaining the Specifications
 
-        xvii. Ensuring the OAS incorporates and aligns to the OAI Values
+        xvii. Ensuring the Specifications incorporate and aligns to the OAI Values
 
-        xviii.  Engaging end users for feedback or input on the OAS
+        xviii.  Engaging end users for feedback or input on the Specifications
 
-        xix. Ensuring the OAS and any contributions adhere to the OAI IP Policy
+        xix. Ensuring the Specifications and any contributions adhere to the OAI IP Policy
 
-        xx. Establishing a publicly communicated process for evolution of the OAS
+        xx. Establishing a publicly communicated process for evolution of the Specifications
 
-        xxi. Approving releases of the OAS
+        xxi. Approving releases of the Specification
 
         xxii. Creating, maintaining and following governance guidelines for the TSC, including:
 
@@ -268,17 +288,17 @@ E-mail: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
         xxiv. Any issues of non-compliance with the OAI IP Policy shall be immediately referred to The Linux Foundation.
 
-    o.  The maintainers and contributors shall set the technical direction of the OAS, with minimal interference by the Technical Oversight Board.
+    o.  The maintainers and contributors shall set the technical direction of the Specifications, with minimal interference by the Technical Oversight Board.
 
-    p.  The TSC will only accept influence through contributions; the primary means for any organization to influence the technical direction of the OAS is via contribution or service as maintainers. OAI Members specifically disclaim any right to influence technical direction either on the basis of their financial contributions or their existence as OAI Members.
+    p.  The TSC will only accept influence through contributions; the primary means for any organization to influence the technical direction of the Specifications is via contribution or service as maintainers. OAI Members specifically disclaim any right to influence technical direction either on the basis of their financial contributions or their existence as OAI Members.
 
     q.  The maintainers of the TSC shall be those listed in the MAINTAINERS file in the project repository, available in the top level of the code repository.
 
 5.  **Technical Oversight Board** ("TOB")
 
-    r.  The TOB is responsible for managing conflicts, violations of procedures or guidelines and any cross-project or high-level issues that cannot be resolved in the TSC for the OAS. The TOB shall also be responsible for adding, removing or re-organizing OAI Projects. The TOB shall not dictate or interfere with the day-to-day work of individual OAI Projects or their decisions.
+    r.  The TOB is responsible for managing conflicts, violations of procedures or guidelines and any cross-project or high-level issues that cannot be resolved in the TSC for the Specifications. The TOB shall also be responsible for adding, removing or re-organizing OAI Projects. The TOB shall not dictate or interfere with the day-to-day work of individual OAI Projects or their decisions.
 
-    s.  The TOB shall operate transparently with any discussions and mailing lists open to the community. The TOB may choose to set up a private discussion or mailing list if a situation warrants a private discussion (e.g. removing a TOB member), but the general expectation is that the TOB's discussions and decisions are open to the OAI Community. If a decision is made in private, the TOB shall be responsible for notifying the OAI Community of the decision and rationale.
+    s.  The TOB shall operate transparently with any discussions and mailing lists open to the community. The TOB may choose to set up a private discussion or mailing list if a situation warrants a private discussion (e.g., removing a TOB member), but the general expectation is that the TOB's discussions and decisions are open to the OAI Community. If a decision is made in private, the TOB shall be responsible for notifying the OAI Community of the decision and rationale.
 
     t.  The TOB shall be composed of individuals elected for their expertise and contribution to the advancement of API-related technologies. Anyone may be elected to the TOB, regardless of whether the individual is an OAI Member or OAI TSC participant. It is intended that TOB members shall be technical experts that are considered thought leaders in the ecosystem. An elected TOB member is elected as an individual and not as a representative of their employer. TOB members may not designate alternative representatives.
 
@@ -302,23 +322,23 @@ E-mail: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
     d.  At any time a vote may be conducted via email or electronic voting service and pass with a simple majority of all TOB members voting in favor.
 
-    e.  Any issues that cannot be resolved by the TOB shall be referred to The Linux Foundation Executive Director for resolution with The Linux Foundation Board of Directors.
+    e.  Any issues that cannot be resolved by the TOB shall be referred to The Linux Foundation Executive Director for resolution.
 
-6.  **Core Values**. The TSC and TOB shall reflect and adhere to the following values for its activities and the OAS:
+6.  **Core Values**. The TSC and TOB shall reflect and adhere to the following values for its activities and the Specifications:
 
-    f.  Open access: information on the OAI, its proceedings, this charter and the OAS themselves shall be publicly available for viewing on the web.
+    f.  Open access: information on the OAI, its proceedings, this charter and the Specifications themselves shall be publicly available for viewing on the web.
 
-    g.  Collaborative: interested parties shall have the means to freely contribute ideas, solutions, commentary and other input to the evolution of the OAS.
+    g.  Collaborative: interested parties shall have the means to freely contribute ideas, solutions, commentary and other input to the evolution of the Specifications.
 
-    h.  Meritocratic and contribution driven development: influence on the development of the OAS is based purely on the importance and merit of the contributions made.
+    h.  Meritocratic and contribution driven development: influence on the development of the Specifications is based purely on the importance and merit of the contributions made.
 
-    i.  Pragmatic. The OAS should prioritize to solve real world problems over supporting academic / abstract concepts.
+    i.  Pragmatic. The Specifications should prioritize to solve real world problems over supporting academic / abstract concepts.
 
-    j.  Extendable. The OAS should allow domain-specific extensions to adhering definitions - enabling the use of the OAS without having to be in conflict with their core functionality.
+    j.  Extendable. The Specifications should allow domain-specific extensions to adhering definitions - enabling the use of the Specifications without having to be in conflict with their core functionality.
 
-    k.  Stable. The OAS should evolve in a pace that allows adopters to support its functionality within a "reasonable timeframe"; its evolution should favor the aim to provide a stable foundation for API metadata over adding new functionality as any immediate needs arise.
+    k.  Stable. The Specifications should evolve in a pace that allows adopters to support its functionality within a "reasonable timeframe"; its evolution should favor the aim to provide a stable foundation for API metadata over adding new functionality as any immediate needs arise.
 
-    l.  Intellectual Property Neutral: the OAS must be available for use free of charge to members and non-members alike. This usage applies to commercial and non-commercial use by any individual organization complying with a set of non-discriminatory usage principles set forth by the Business Governance Board.
+    l.  Intellectual Property Neutral: the Specifications must be available for use free of charge to members and non-members alike. This usage applies to commercial and non-commercial use by any individual organization complying with a set of non-discriminatory usage principles set forth by the Business Governance Board.
 
 7.  **IP Policy.**
 
@@ -364,8 +384,8 @@ E-mail: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 11. **Amendments and Notice**
 
-    d.  The Business Governance Board may make amendments to this Charter at any time subject to approval by The Linux Foundation.
+12. 
 
-    e.  This Charter may be amended by a simple majority vote of The Linux Foundation Board of Directors upon thirty (30) days' notice to the OAI Members and participants. A member may resign within such thirty-day notice period to avoid undertaking any obligations imposed by any such amendment on a going forward basis. Such resignation will not have any effect on commitments made by the OAI Member or participant during the term of membership. Resignation may be made by email to the Executive Director of the Linux Foundation.
+> This charter may be amended by a simple majority vote of the entire Business Governance Board, subject to approval by The Linux Foundation.
 
   [http://developercertificate.org]: http://developercertificate.org/
