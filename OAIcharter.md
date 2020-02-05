@@ -34,6 +34,13 @@ On completion in full of this agreement, please sign and send a copy of this agr
 
 **Annual Participation Fees:** The OAPI participation fees cover a one-year period from the date of receiving your participation fee payment. In the second year, the LF will prorate your participation fees to align to a calendar year cycle. In year 3 and thereafter, your participation fees will be based on an annual calendar year. Participants who are not members of The Linux Foundation will be subject to an additional LF Non-Member Fee ("LF-NMF") according to the LF-NMF schedule below.
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
   |Select  | Consolidated Employees                    | Annual Fee (USD) LF Member | Annual Fee (USD) LF Non-Member |
  | -------- ------------------------------------------ ------------------ ----------------------------------------------
   |-☐       | Over 5,000                               | $25,000           | $25000 + LF-NMF |
